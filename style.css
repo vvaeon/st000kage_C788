@@ -6,6 +6,11 @@ body {
   background-image: url("img/cuisine_page-0001.png");
   background-size: cover;
 }
+.door{
+  position: absolute;
+  top: 30px ; 
+  left: 55px ; 
+}
 .marmite{
   position: absolute;
   top: 250px;
